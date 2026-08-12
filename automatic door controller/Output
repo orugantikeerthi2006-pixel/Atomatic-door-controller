@@ -1,0 +1,6 @@
+ Time    Person Detected  Door   
+ 0 ns    0                Closed 
+ 10 ns   1                Open    
+ 20 ns   0                Closed 
+ 30 ns   1                Open   
+ 40 ns   0                Closed 
